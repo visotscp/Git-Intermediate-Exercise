@@ -1,6 +1,31 @@
 var document = "";
 
-var data;
+var data = [
+{
+"name": "Historic Jackson Ward Association",
+"neighborhood": "Jackson Ward",
+"address": "501 N. 2nd Street, Richmond, VA 23219",
+"note": "Manages all Jackson Ward, 'historic' businesses"
+},
+{
+"name": "True Health Diagnostics",
+"neighborhood": "Jackson Ward",
+"address": "737 N 5th Street, Richmond, VA 23219",
+"note": "Innovative medical lab"
+},
+{
+"name": "Barnes & Noble",
+"neighborhood": "Jackson Ward",
+"address": "601 N 10th St, Richmond, VA 23298",
+"note": "MCV Bookstore"
+},
+{
+"name": "Altria Center For Research and Technology",
+"neighborhood": "Jackson Ward",
+"address": "601 E Jackson St, Richmond VA 23219",
+"note": "Phillip Morris lab"
+}
+];
 
 function printSuggestion(inputData) {
   var suggestion = inputData[Math.floor(Math.random() * inputData.length)];
