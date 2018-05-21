@@ -1,5 +1,5 @@
 var document = "";
-
+// Suggestion data for The Fan attractions
 var data = 
 [{
   "name":"Byrd Theater",
