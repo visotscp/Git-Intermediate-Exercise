@@ -1,6 +1,31 @@
 var document = "";
 
-var data;
+var data=[
+  {
+    "name":"Two Pillars Tattoo & Sign Shop",
+    "neighborhood":"Northside",
+    "address":"224 W Brookland Park Blvd, Richmond, VA 23222",
+    "note":"Nice Tattoos"
+  },
+  {
+    "name":"Little House Green Grocery",
+    "neighborhood":"Northside",
+    "address":"1227 Bellevue Ave, Richmond, VA 23227",
+    "note":"Neighborhood Grocery"
+  },
+  {
+    "name":"Northside Hardware Store",
+    "neighborhood":"Northside",
+    "address":"2925 North Ave, Richmond, VA 23222",
+    "note":"Neighborhood Hardware store"
+  },
+  {
+    "name":"Balance Bicycle Shop",
+    "neighborhood":"Northside",
+    "address":"904 W Broad St, Richmond, VA 23220",
+    "note":"Bicycle store"
+  }
+];
 
 function printSuggestion(inputData) {
   var suggestion = inputData[Math.floor(Math.random() * inputData.length)];
