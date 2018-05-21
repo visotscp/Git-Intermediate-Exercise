@@ -1,5 +1,8 @@
+
+
 var document = "";
 
+//Suggestion Data For Scott's Addition Bars
 var data = [
 
   {
