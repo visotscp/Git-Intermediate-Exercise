@@ -1,5 +1,6 @@
 var document = "";
 
+// Suggestion data for Jackson Ward shopping
 var data = [
   {
     "name": "Rider Boot Shop",
