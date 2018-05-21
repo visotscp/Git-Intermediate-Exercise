@@ -1,3 +1,4 @@
+// Suggestion data for Schockoe Bottom Shopping
 var document = "";
 
 var data = [
