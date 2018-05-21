@@ -1,6 +1,32 @@
 var document = "";
 
-var data;
+//Suggestion data for <Scotts Addition> <Attractions>
+var data = [
+  {
+      "name" : "G-Force Karts",
+      "neighborhood" : "Scott's Addition",
+      "address" : "4245 Carolina Ave, 23222",
+      "note" : "Go carts."
+  },
+  {
+      "name" : "Library of Virginia",
+      "neighborhood" : "Scott's Addition",
+      "address" : "800 East Broad St, 23219",
+      "note" : "It's a library, in Virginia, about Virginia... go figure."
+  },
+  {
+      "name" : "Segway of Virginia",
+      "neighborhood" : "Scott's Addition",
+      "address" : "1301 East Cary Street, 23219",
+      "note" : "Watch out for that open manhole cover on Cary Street!"
+  },
+  {
+      "name" : "The Diamond",
+      "neighborhood" : "Scott's Addition",
+      "address" : "3001 N Boulevard",
+      "note" : "Worst hot dog in Richmond!"
+  }
+];
 
 function printSuggestion(inputData) {
   var suggestion = inputData[Math.floor(Math.random() * inputData.length)];
