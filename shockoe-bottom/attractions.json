@@ -1,12 +1,6 @@
 var document "";
 var data = [
-    {
-        "name":"",
-        "neighborhood":"Shockoe Bottom",
-        "address":"",
-        "note":""
-    },
-    {
+     {
         "name":"Edgar Allen Poe Museum",
         "neighborhood":"Shockoe Bottom",
         "address":"1914 E Main St # 16",
@@ -30,4 +24,4 @@ var data = [
         "address":"2000 E Cary St",
         "note":"Founded to educate the community about the tragedies of the Holocaust, the Virginia Holocaust Museum strives to memorialize and document the atrocities of World War II."
     }
-]
+];
