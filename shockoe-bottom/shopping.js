@@ -1,7 +1,7 @@
 // Suggestion data for Schockoe Bottom Shopping
 var document = "";
 
-var data = [
+var data = [  
     {
         "name":"Rosewood Clothing Co",
         "neighborhood": "Schockoee bottom",
