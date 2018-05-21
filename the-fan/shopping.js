@@ -1,5 +1,5 @@
 var document = "";
-
+//suggestion data for The Fan
 var data = [
   {
    "name":"lunar hippie",
