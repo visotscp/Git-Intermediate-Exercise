@@ -9,3 +9,5 @@ title: "Restaurants"
 <div id="suggestion"></div>
 
 <script type="text/javascript" src="restaurants.js"></script>
+
+<link rel="stylesheet" href="restaurants.css">

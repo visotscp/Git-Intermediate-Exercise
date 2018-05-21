@@ -9,3 +9,4 @@ title: "Rosewood Clothing Co"
 <div id="suggestion"></div>
 
 <script type="text/javascript" src="shopping.js"></script>
+<link rel="stylesheet" href="shopping.css">
