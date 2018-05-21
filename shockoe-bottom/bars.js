@@ -4,6 +4,8 @@ var data;
 
 function printSuggestion(inputData) {
   var suggestion = inputData[Math.floor(Math.random() * inputData.length)];
+
+  // Suggestion data for bars and restaurants in Shockoe Bottom
   var data = [
     {
     "name": "Stone Brewing",
