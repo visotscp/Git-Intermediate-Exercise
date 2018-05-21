@@ -1,24 +1,22 @@
+@import url(//fonts.googleapis.com/css?family=Architects+Daughter|Sunflower:300);
+
 .vcard {
-  font-family: serif;
-  margin-left: 35vw;
+  font-family: 'Architects Daughter', cursive;
+  margin-left: 35%;
   border-radius: 10px;
   border-style: solid;
-  border-color: silver;
+  border-color: red;
   border-width: thin;
-  padding: 3vh 3vw;
+  padding: 3vh 3%;
 }
 
 .org {
+  font-family: 'Sunflower', sans-serif;
   font-size: larger;
-  font-variant: small-caps;
-  margin-top: 5vh;
-  margin-bottom: 3vh;
+  margin-top: 5%;
+  margin-bottom: 3%;
   border-bottom-style: solid;
-  border-bottom-color: #000;
-  border-bottom-width: thin;
-}
-
-.note {
+  border-bottom-color: #ffccee;
   font-style: italic;
-  margin-top: 2vh;
+  margin-top: 2%;
 }
