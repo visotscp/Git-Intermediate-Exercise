@@ -35,7 +35,7 @@ var data=[
 	{
 		"name": "WPA Bakery",
 		"neighborhood": "Church Hill",
-		"note": "Hip bakeshop in a historic building with pastries, cakes & coffee, plus gluten-free & vegan options.",
+		"note": "Hip bakeshop in a historic building with pastries, cakes &amp; coffee, plus gluten-free &amp; vegan options.",
 		"address": "2707 E Marshall St"
 	},
 	{
