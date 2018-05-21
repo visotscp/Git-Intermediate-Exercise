@@ -1,5 +1,5 @@
 var document = "";
-
+// Suggestion data for The Fan Businesses
 var data = [
   {
     "name":"U.S. Electric Co. Inc.",
