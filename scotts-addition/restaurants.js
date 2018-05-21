@@ -1,5 +1,6 @@
 var document = "";
 
+// Suggestion data for Scott's Addition Restaurants
 var data = [
   {
     "name": "Peter Chang",
