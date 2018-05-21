@@ -32,8 +32,6 @@ var data = [
   ]
   ;
 
-
-
 function printSuggestion(inputData) {
   var suggestion = inputData[Math.floor(Math.random() * inputData.length)];
   console.group("Suggestion");
