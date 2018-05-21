@@ -1,5 +1,6 @@
 var document = "";
 
+//suggested data for scott's addition shopping
 var data = [
               {
               "name": "Richmond Bicycle Studio",
@@ -28,7 +29,7 @@ var data = [
                 "address": "3121 W Marshall St, Richmond, VA 23230",
                 "note": "Tattoo store"
               }
-              
+
             ];
 
 function printSuggestion(inputData) {
