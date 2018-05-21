@@ -1,5 +1,6 @@
 var document = "";
 
+// Suggestion data for Church Hill Shopping
 var data = [
   {
     "name": "Roaring Pines",
