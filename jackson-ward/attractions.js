@@ -1,5 +1,5 @@
 var document = "";
-
+// Suggestion data for Jackson Ward attractions
 var data = [
 {
   "name": "Gallery5",
