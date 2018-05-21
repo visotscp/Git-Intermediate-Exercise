@@ -1,5 +1,6 @@
 var document = "";
 
+// Suggestion data for Northside restaurants
 var data = [
   {
     "name": "The Mill on MacArthur",
