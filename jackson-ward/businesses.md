@@ -1,5 +1,5 @@
 ---
-title: "Businesses"
+title: "Jackson Ward Businesses"
 ---
 
 <form name="suggestionForm" action="" method="GET">
@@ -9,3 +9,6 @@ title: "Businesses"
 <div id="suggestion"></div>
 
 <script type="text/javascript" src="businesses.js"></script>
+
+<input type="button" name="getSuggestion" value="Get a
+suggestion" onClick="printSuggestion(data)">

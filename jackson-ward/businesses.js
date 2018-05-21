@@ -1,5 +1,6 @@
 var document = "";
 
+// Suggestion data for Jackson Ward Businesses
 var data = [
 {
 "name": "Historic Jackson Ward Association",
