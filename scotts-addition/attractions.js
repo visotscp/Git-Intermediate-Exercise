@@ -1,5 +1,6 @@
 var document = "";
 
+//Suggestion data for <Scotts Addition> <Attractions>
 var data = [
   {
       "name" : "G-Force Karts",
