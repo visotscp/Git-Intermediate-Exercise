@@ -1,5 +1,5 @@
 var document = "";
-
+// Sugestion data for NorthSide Attractions
 var data = [
     {
         "name": "Lewis Ginter",
