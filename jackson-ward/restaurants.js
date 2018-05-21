@@ -1,6 +1,38 @@
 var document = "";
 
-var data;
+// Suggestion data for Jackson Ward Restaurants
+var data = [
+    {
+      "name" : "Max's on Broad",
+      "neighborbood" : "Jackson Ward",
+      "address" : "305 Brook Rd, Richmond, VA 23220",
+      "note" : "Modern European, Belgian, French"
+    },
+    {
+      "name" : "Comfort",
+      "neighborhood" : "Jackson Ward",
+      "address" : "200 W Broad St, Richmond, VA 23220",
+      "note" : "Southern"
+    },
+    {
+      "name" : "Mama J's Kitchen",
+      "neighborhood" : "Jackson Ward",
+      "address" : "415 N 1st St, Richmond, VA 23219",
+      "note" : "Soul Food"
+    },
+    {
+      "name" : "Salt & Forge",
+      "neighborhood" : "Jackson Ward",
+      "address" : "312 N 2nd St, Richmond, VA 23219",
+      "note" : "Sandwiches, Breakfast & Brunch, Salad"
+    },
+    {
+      "name" : "Lucy's",
+      "neighborhood" : "Jackson Ward",
+      "address" : "404 N 2nd St, Richmond, VA 23219",
+      "note" : "Breakfast & Brund, American, Sandwiches"
+    }
+  ];
 
 function printSuggestion(inputData) {
   var suggestion = inputData[Math.floor(Math.random() * inputData.length)];
