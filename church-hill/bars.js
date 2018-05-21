@@ -1,5 +1,5 @@
 var document = "";
-
+// Suggestion data for Church Hill Bars
 var data = [
 {
 	"name":"Metzger Bar and Butchery",
