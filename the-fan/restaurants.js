@@ -1,5 +1,5 @@
 var document = "";
-
+// Suggestion data for <NEIGHBORHOOD> <CATEGORY>
 var data = [
   {
     "name":"Social52 Kitchen & Craft Bar",
