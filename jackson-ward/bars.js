@@ -1,5 +1,6 @@
 var document = "";
 
+// Suggestion data for Jackson Ward Bars
 var data = [
     {
       "name": "GWARbar",
