@@ -1,6 +1,31 @@
 var document = "";
 
-var data;
+var data = [
+  {
+   "name":"lunar hippie",
+   "neighborhood":"The Fan",
+   "address":"Main St",
+   "note":"incense"
+  },
+  {
+   "name":"Mod & Soul",
+   "neighborhood":"The Fan",
+   "address":"Broad St",
+   "note":"private events"
+  },
+ {
+   "name":"fabrik",
+   "neighborhood":"The Fan",
+   "address":"Carytown",
+   "note":"clothes"
+ },
+ {
+   "name":"claires",
+   "neighborhood":"The Fan",
+   "address":"Willow Lawn",
+   "note":"nose rings"
+ }
+ ];
 
 function printSuggestion(inputData) {
   var suggestion = inputData[Math.floor(Math.random() * inputData.length)];
