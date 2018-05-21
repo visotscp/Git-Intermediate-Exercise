@@ -10,4 +10,4 @@ title: "Restaurants"
 
 <script type="text/javascript" src="restaurants.js"></script>
 
-<link rel="stylesheet" href="<category>.css">
+<link rel="stylesheet" href="restaurants.css">
