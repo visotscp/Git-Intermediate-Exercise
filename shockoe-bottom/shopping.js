@@ -5,7 +5,7 @@ var data = [
         "name":"Rosewood Clothing Co",
         "neighborhood": "Schockoee bottom",
         "address" : "16 W Broad St,Richmond",
-        "note" : "Women's Clothing"
+        "note" : "Women's Clothin g"
     },
     {
         "name":"Tiny Space ",
