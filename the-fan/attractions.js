@@ -1,6 +1,35 @@
 var document = "";
+// Suggestion data for The Fan attractions
+var data = 
+[{
+  "name":"Byrd Theater",
+  "neighborhood": "The Fan",
+  "address": "2908 W Cary St.",
+  "note": "Fun, unique cinema experience"
+},
+{
+"name":"Virginia Museum of fine arts",
+  "neighborhood": "The Fan",
+  "address": "200 N Boulevard",
+  "note": "More than 5000 years of art from around the world"
 
-var data;
+
+},
+{
+"name":"Bygones Vintage Clothing",
+  "neighborhood": "The Fan",
+  "address": "2916 W Carry St.",
+  "note": "Step back in time"
+
+},
+{
+"name":"Carytown",
+  "neighborhood": "The Fan",
+  "address": "3166 W Cary St.",
+  "note": "History repurposed!!"
+
+}
+];
 
 function printSuggestion(inputData) {
   var suggestion = inputData[Math.floor(Math.random() * inputData.length)];
