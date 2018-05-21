@@ -1,5 +1,6 @@
 var document = "";
 
+// Suggestion data for Jackson Ward Restaurants
 var data = [
     {
       "name" : "Max's on Broad",
